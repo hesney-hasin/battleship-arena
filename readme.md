@@ -4,7 +4,7 @@
 A real-time multiplayer Battleship game. Choose a callsign, configure your fleet, and challenge another player or play against the CPU.
 ## Link - https://battleship-arena-sooty.vercel.app/
 
-Note: This project requires Supabase, but I couldn’t configure a new Supabase project because my free-tier account has reached its project limit. As a result, multiplayer and other database-backed features may not work until Supabase is configured.
+## Note: This project requires Supabase, but I couldn’t configure a new Supabase project because my free-tier account has reached its project limit. As a result, multiplayer and other database-backed features may not work until Supabase is configured.
 
 ## Features
 
